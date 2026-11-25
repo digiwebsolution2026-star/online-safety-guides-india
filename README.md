@@ -8,7 +8,7 @@ A small collection of plain-language checklists to help people in India stay saf
 - Read the permissions an app asks for. Be careful with SMS and Accessibility access.
 - Never share your OTP, UPI PIN, card PIN or password with anyone.
 - Type the website address yourself instead of tapping links from messages.
-- If you are cheated, call your bank, then report it at https://cybercrime.gov.in/ or call 1930.
+- If you are cheated, call your bank, then report it at
 
 ## Guides
 
